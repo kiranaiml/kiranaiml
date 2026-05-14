@@ -31,7 +31,7 @@ Email Me 👉 ✉️ **kirugowda@zohomail.in** For Collaboration/Project or Anyt
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kiranaiml&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-### ✍️ Random Dev Quote
+### ✍️ Daily Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
