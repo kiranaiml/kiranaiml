@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **kirugowda@zohomail.in** For Collaboration/Project or Anything Else. 😊😊
 
 -    **About me**
--    (I'm a student Aspiring AI/ML Engineer | Learning Python & Machine Learning)
+-    (I'm a BCA student Aspiring AI/ML Engineer | Learning Python & Machine Learning)
 - 🔭 **I’m currently working on:** python project
 - 🌱 **I’m currently learning:** python
 - 👯 **I’m looking to collaborate on:**
