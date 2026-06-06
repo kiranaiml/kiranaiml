@@ -1,47 +1,122 @@
-Hi 👋, I'm Kiran LM
-🚀 Aspiring AI/ML Engineer from India
-🎓 BCA Student | Python Developer | Machine Learning Enthusiast
-🌱 Currently Learning NumPy and building my AI/ML foundation
-💫 About Me
-🔭 Currently working on Python projects
-🌱 Learning NumPy, Data Analysis, and Machine Learning
-🎯 Goal: Become a skilled AI/ML Engineer
-👯 Open to collaborate on Python and AI/ML projects
-💬 Ask me about Python, GitHub, and AI/ML learning
-📫 Reach me at: kirugowda@zohomail.in
-⚡ Fun Fact: I enjoy learning new technologies and solving problems
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kiru_gowda_16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kiran-lm-ai-ml) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kirugowda@zohomail.in) 
+# Hi 👋, I'm Kiran LM
+
+<div align="center">
+
+# 🚀 Aspiring AI/ML Engineer
+
+### Python Developer | Machine Learning Enthusiast | BCA Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer;Python+Developer;Currently+Learning+NumPy;Building+Projects+Every+Day" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 💫 About Me
+
+- 🎓 BCA Student from India
+- 🔭 Currently working on Python projects
+- 🌱 Currently learning **NumPy**
+- 🎯 Goal: Become an AI/ML Engineer
+- 👯 Open to collaboration on Python & AI projects
+- 💬 Ask me about Python, GitHub, and AI/ML learning
+- 📫 Reach me: **kirugowda@zohomail.in**
+- ⚡ Fun fact: I enjoy learning new technologies
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://instagram.com/kiru_gowda_16">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/kiran-lm-ai-ml">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kirugowda@zohomail.in">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+---
+
+## 📈 Learning Journey
+
+```text
+Python             ████████████████████ 100%
+NumPy              ████████████░░░░░░░░ 60%
+Pandas             ░░░░░░░░░░░░░░░░░░░░ 0%
+Machine Learning   ░░░░░░░░░░░░░░░░░░░░ 0%
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiranaiml&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranaiml&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kiranaiml&theme=tokyonight" />
+</p>
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kiranaiml&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kiranaiml&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kiranaiml&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kiranaiml&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kiranaiml&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🔝 Top Contributed Repositories
 
-
-### ✍️ Daily Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kiranaiml&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=kiranaiml&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 
 ---
-    *2027 Goal's
-⏳ Build 10+ Projects
-⏳ Learn Machine Learning
-⏳ Get an AI/ML Internship
-⏳ Contribute to Open Source
-[![](https://komarev.com/ghpvc/?username=kiranaiml&icon=0&color=0)](https://visitcount.itsvg.in)
 
-⭐ Thanks for visiting my profile!
+## 🎯 2027 Goals
+- ⏳ Build 10+ Projects
+- ⏳ Get an AI/ML Internship
+- ⏳ Contribute to Open Source
+
+---
+
+## 📈 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kiranaiml&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+"Keep learning, keep building, keep growing." 🚀
+
+</div>
