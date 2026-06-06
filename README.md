@@ -65,14 +65,11 @@ Machine Learning   ░░░░░░░░░░░░░░░░░░░░ 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiranaiml&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiranaiml&layout=compact&theme=tokyonight" height="170"/>
-</p>
+![](https://github-readme-stats.shion.dev/api?username=kiranaiml&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kiranaiml&theme=tokyonight" />
-</p>
+![](https://streak-stats.demolab.com/?user=kiranaiml&theme=shadow_blue&hide_border=true)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kiranaiml&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
