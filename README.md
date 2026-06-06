@@ -73,11 +73,8 @@ Machine Learning   ░░░░░░░░░░░░░░░░░░░░ 
 
 ---
 
-## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=kiranaiml&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
----
 
 ## 🐍 Contribution Snake
 
@@ -87,10 +84,6 @@ Machine Learning   ░░░░░░░░░░░░░░░░░░░░ 
 
 ---
 
-## 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=kiranaiml&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 
 ## 🎯 2027 Goals
 - ⏳ Build 10+ Projects
