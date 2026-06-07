@@ -12,11 +12,6 @@
 
 ---
 
-# 👋 Hi, I'm Kiran LM
-
-🚀 Aspiring AI/ML Engineer | Python Developer | BCA Student
-
----
 
 ## 👨‍💻 About Me
 
