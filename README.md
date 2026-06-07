@@ -12,85 +12,91 @@
 
 ---
 
-## 💫 About Me
+# 👋 Hi, I'm Kiran LM
 
-- 🎓 BCA Student from India
-- 🔭 Currently working on Python projects
-- 🌱 Currently learning **NumPy**
-- 🎯 Goal: Become an AI/ML Engineer
-- 👯 Open to collaboration on Python & AI projects
-- 💬 Ask me about Python, GitHub, and AI/ML learning
-- 📫 Reach me: **kirugowda@zohomail.in**
-- ⚡ Fun fact: I enjoy learning new technologies
+🚀 Aspiring AI/ML Engineer | Python Developer | BCA Student
 
 ---
 
-## 🌐 Connect With Me
+## 👨‍💻 About Me
 
-<p align="left">
-<a href="https://instagram.com/kiru_gowda_16">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/kiran-lm-ai-ml">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:kirugowda@zohomail.in">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+* 🎓 BCA Student from India
+* 🐍 Strong foundation in Python programming
+* 📊 Completed NumPy Fundamentals
+* 📚 Currently learning Pandas and Data Analysis
+* 🤖 Interested in Artificial Intelligence & Machine Learning
+* 🎯 Goal: Become an AI/ML Engineer and build impactful AI solutions
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Skills
 
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
+### Programming
+
+* Python
+
+### Libraries & Tools
+
+* NumPy
+* Git
+* GitHub
+
+### Currently Learning
+
+* Pandas
+* Data Analysis
+* Machine Learning
+
+---
+
+## 📂 Projects
+
+### Python Learning Projects
+
+* Python Fundamentals
+* Object-Oriented Programming (OOP)
+
+### NumPy Projects
+
+* Missing Value Handling
+* Boolean Masking & Filtering
+* Broadcasting
+* Matrix Operations
+* Sorting & Unique Values
 
 ---
 
 ## 📈 Learning Journey
 
-```text
-Python             ████████████████████ 100%
-NumPy              ████████████░░░░░░░░ 60%
-Pandas             ░░░░░░░░░░░░░░░░░░░░ 0%
-Machine Learning   ░░░░░░░░░░░░░░░░░░░░ 0%
-```
+* ✅ Python Basics
+* ✅ Object-Oriented Programming
+* ✅ Git & GitHub
+* ✅ NumPy
+* 🔄 Pandas
+* ⏳ Machine Learning
+* ⏳ Deep Learning
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 2026 Goals
 
-![](https://github-readme-stats.shion.dev/api?username=kiranaiml&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
-
-![](https://streak-stats.demolab.com/?user=kiranaiml&theme=shadow_blue&hide_border=true)<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kiranaiml&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-
-
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+* Complete Pandas & Data Visualization
+* Build 5+ AI/ML Projects
+* Participate in Hackathons
+* Secure an AI/ML Internship
+* Contribute to Open Source
 
 ---
 
+## 🌐 Connect With Me
 
-## 🎯 2027 Goals
-- ⏳ Build 10+ Projects
-- ⏳ Get an AI/ML Internship
-- ⏳ Contribute to Open Source
+* LinkedIn: [www.linkedin.com/in/kiran-lm-ai-ml](http://www.linkedin.com/in/kiran-lm-ai-ml)
+* GitHub: github.com/kiranaiml
 
 ---
+
+⭐ Always learning, building, and improving one step at a time.
+
 
 ## 📈 Profile Views
 
