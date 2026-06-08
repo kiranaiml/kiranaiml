@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kiran LM
+# Hi 👋, I'm Kiran L.M
 
 <div align="center">
 
