@@ -15,12 +15,12 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 BCA Student from India
-* 🐍 Strong foundation in Python programming
-* 📊 Completed NumPy Fundamentals
-* 📚 Currently learning Pandas and Data Analysis
-* 🤖 Interested in Artificial Intelligence & Machine Learning
-* 🎯 Goal: Become an AI/ML Engineer and build impactful AI solutions
+* 🎓 BCA Student from India.
+* 🐍 Strong foundation in Python programming.
+* 📊 Completed NumPy Fundamentals.
+* 📚 Currently learning Pandas and Data Analysis.
+* 🤖 Interested in Artificial Intelligence & Machine Learning.
+* 🎯 Goal: Become an AI/ML Engineer and build impactful AI solutions.
 
 ---
 
