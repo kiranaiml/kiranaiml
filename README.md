@@ -86,7 +86,7 @@
 ## 🌐 Connect With Me
 * 💼 LinkedIn: www.linkedin.com/in/kiran-lm-ai-ml <br>
 * 💻 GitHub: github.com/kiranaiml <br>
-* 📸 Instagram: @Kirk_gowda_16 <br>
+* 📸 Instagram: @Kiru_gowda_16 <br>
 * 📧 Email: kirugowda@zohomail.in 
 
 ⭐ Always learning, building, and improving one step at a time.
