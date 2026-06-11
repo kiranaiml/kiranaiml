@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🚀 Aspiring AI/ML Engineer
+# 🚀  AI/ML Engineer Student
 
 ### Python Developer | Machine Learning Enthusiast | BCA Student
 
