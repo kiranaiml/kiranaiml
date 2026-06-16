@@ -75,11 +75,11 @@
 
 ## 🎯 2026 Goals
 
-* Complete Pandas & Data Visualization
-* Build 5+ AI/ML Projects
-* Participate in Hackathons
-* Secure an AI/ML Internship
-* Contribute to Open Source
+* Complete Pandas & Data Visualization.
+* Build 5+ AI/ML Projects.
+* Participate in Hackathons.
+* Secure an AI/ML Internship.
+* Contribute to Open Source.
 
 ---
 
