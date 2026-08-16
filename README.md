@@ -2,11 +2,11 @@
 
 <div align="center">
 
-# 🚀 AI/ML Engineer Student
+# 🚀 Aspiring AI/ML Engineer
 
-### Python Developer | Machine Learning Enthusiast | BCA Student
+### Python Developer | Data Science Learner | BCA Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+AI%2FML+Engineer;Python+Developer;Completed+NumPy+%26+Pandas;Currently+Learning+Matplotlib;Building+Projects+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+AI%2FML+Engineer;Python+Developer;Completed+NumPy+%26+Pandas;Completed+Matplotlib;Learning+Statistics;Building+AI%2FML+Projects" alt="Typing SVG" />
 
 </div>
 
@@ -15,97 +15,159 @@
 ## 👨‍💻 About Me
 
 * 🎓 BCA Student from India.
-* 🐍 Strong foundation in Python programming.
-* 📊 Completed **NumPy** and **Pandas**.
-* 📈 Currently learning **Matplotlib** and Data Visualization.
+* 🐍 Building a strong foundation in Python programming.
+* 🔢 Completed **NumPy**.
+* 🐼 Completed **Pandas**.
+* 📈 Completed **Matplotlib & Data Visualization**.
+* 📊 Moving into **Statistics and Machine Learning**.
 * 🤖 Passionate about Artificial Intelligence & Machine Learning.
-* 🚀 Building projects to strengthen my AI/ML skills.
-* 🎯 Goal: Become an AI/ML Engineer and build impactful AI solutions.
+* 🚀 Building practical projects to strengthen my technical skills.
+* 🎯 Long-term goal: Become an **AI/ML Engineer** and build useful AI solutions.
 
 ---
 
 ## 🛠️ Skills
 
-### Programming
+### 💻 Programming
 
 * Python
 
-### Libraries & Tools
+### 📊 Data Science & Visualization
 
 * NumPy
 * Pandas
+* Matplotlib
+
+### 🔧 Tools
+
 * Git
 * GitHub
+* VS Code
 
-### Currently Learning
+### 🔄 Currently Learning
 
-* Matplotlib
-* Data Visualization
+* Statistics
 * Machine Learning
 
 ---
 
 ## 📂 Projects
 
+### 🎬 Netflix Data Visualization
+
+A data analysis and visualization project using the Netflix titles dataset.
+
+**Technologies:**
+
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+
+**Work completed:**
+
+* Data cleaning
+* Missing-value handling
+* Duplicate detection
+* Data filtering
+* Data analysis
+* Exploratory data analysis
+* Data visualization
+
+🔗 **Repository:**
+https://github.com/kiranaiml/Netflix_data_visualization
+
+---
+
+## 📚 Learning & Practice
+
 ### 🐍 Python
 
 * Python Fundamentals
 * Object-Oriented Programming (OOP)
+* Functions
+* Loops
+* Conditional Statements
+* Data Structures
 
 ### 🔢 NumPy
 
+* Arrays
 * Array Operations
-* Missing Value Handling
 * Boolean Masking & Filtering
 * Broadcasting
+* Missing Values
+* Sorting
+* Unique Values
 * Matrix Operations
-* Sorting & Unique Values
 
 ### 🐼 Pandas
 
-* DataFrames & Series
+* Series & DataFrames
 * Data Cleaning
-* Filtering & Sorting
+* Missing Values
+* Duplicate Data
+* Filtering
+* Sorting
 * GroupBy
-* Merge & Concat
-* Pivot Table
+* Merge
+* Concat
+* Pivot Tables
 * Melt
 * Crosstab
 * CSV File Handling
+
+### 📈 Matplotlib
+
+* Line Plots
+* Bar Charts
+* Pie Charts
+* Histograms
+* Scatter Plots
+* Multiple Plots
+* Titles & Labels
+* Legends
+* Grid
+* Markers
+* Line Styles
+* Plot Customization
 
 ---
 
 ## 📈 Learning Journey
 
-* ✅ Python Basics
-* ✅ Object-Oriented Programming (OOP)
+* ✅ Python
+* ✅ Object-Oriented Programming
 * ✅ Git & GitHub
 * ✅ NumPy
 * ✅ Pandas
-* 🔄 Matplotlib
-* ⏳ Seaborn
-* ⏳ Statistics
+* ✅ Matplotlib
+* 🔄 Statistics
 * ⏳ Machine Learning
 * ⏳ Deep Learning
+* ⏳ PyTorch
+* ⏳ Generative AI & LLMs
 
 ---
 
 ## 🎯 Goals for 2026
 
-* 📊 Master Data Visualization.
-* 🤖 Learn Machine Learning & Deep Learning.
-* 🚀 Build 10+ AI/ML Projects.
-* 💼 Secure an AI/ML Internship.
+* 📊 Strengthen Statistics and Data Science fundamentals.
+* 🤖 Learn Machine Learning.
+* 🧠 Learn Deep Learning and PyTorch.
+* 🚀 Build **10+ practical AI/ML projects**.
+* 💼 Prepare for an AI/ML internship.
 * 🌍 Contribute to Open Source.
 * ⭐ Build a strong AI/ML portfolio.
+* 🧩 Build practical AI applications.
 
 ---
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: [www.linkedin.com/in/kiran-lm-ai-ml](http://www.linkedin.com/in/kiran-lm-ai-ml)
-* 💻 GitHub: github.com/kiranaiml
-* 📸 Instagram: @Kiru_gowda_16
+* 💼 LinkedIn: [Kiran L.M](https://www.linkedin.com/in/kiran-lm-ai-ml/)
+* 💻 GitHub: [kiranaiml](https://github.com/kiranaiml)
+* 📸 Instagram: [@Kiru_gowda_16](https://www.instagram.com/kiru_gowda_16/)
 * 📧 Email: [kirugowda@zohomail.in](mailto:kirugowda@zohomail.in)
 
 ---
@@ -125,4 +187,3 @@
 **Keep learning. Keep building. Keep growing. 🚀**
 
 </div>
-
